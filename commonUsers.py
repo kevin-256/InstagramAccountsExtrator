@@ -98,8 +98,8 @@ elif len(sys.argv) == 2:
         print(f'User list count: {count}')
 else:
     print("  Pass two username to the script to get common followers/following list")
-    print("    python3 commonUsers.py <user1> <user2>")
+    print("    python commonUsers.py <user1> <user2>")
     print("  Pass one username to the script to get the followers/following list")
-    print("    python3 commonUsers.py <user1>")
+    print("    python commonUsers.py <user1>")
     print("  Pass one file to the script to get the followers/following list")
-    print("    python3 commonUsers.py <filename>.json\n")    
+    print("    python commonUsers.py <filename>.json\n")    
