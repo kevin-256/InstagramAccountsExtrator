@@ -15,3 +15,7 @@ Extract followers and following from a user or compare with another user. It wor
   ```
   python commonUsers.py <filename>.json
   ```
+
+
+
+I am not responsible for the use you make of this program or for any issues it may cause to your account, such as bans or reports.
